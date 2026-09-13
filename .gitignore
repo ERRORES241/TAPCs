@@ -1,0 +1,18 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# IDE files
+.vs/
+.vscode/
+
+# User-specific & temporary files
+*.user
+*.suo
+~$*
+*.tmp
+
+# Documents and reports
+*.pdf
+*.docx
+*.md
